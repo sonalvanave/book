@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Oswald:wght@200..700&family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+
+p{
+    font-family: "Kalnia Glaze", serif;
+    color: aqua;
+    font-size: 20px;
+    background-color:black;
+    padding:10px ;
+    line-height: 1.2;
+    word-spacing: 10px;
+    letter-spacing: 0;
+    border-left: 5px solid green;
+    margin:0;
+}
+
+.one{
+    font:family:font-family: "Oswald", sans-serif;
+     color:green;
+     background-color:red;
+     border-left: 5px solid pink;
+     margin-bottom: 50px;
+}
+
+.two{
+    font-family: "Open Sans", sans-serif;
+    color: aqua;
+    background-color: rgb(8, 0, 0);
+    border-left: 5px solid yellow;
+    margin-top:60px ;
+}
+#black{
+    color:black;
+}
+#green{
+    color:green;
+}
+#orange{
+    color:orange;
+}
